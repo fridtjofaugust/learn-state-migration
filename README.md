@@ -1,5 +1,4 @@
-# Migrate State to Terraform Cloud
+# Terraform
 
-Learn how to migrate your existing state file to a Terraform Cloud workspace.
-
-Follow along with the [Learn Guide](https://learn.hashicorp.com/terraform/tfc/tfc_migration) at HashiCorp Learn.
+For testing migration of state to Terraform Cloud.
+Also to add TFC as a VCS. 
